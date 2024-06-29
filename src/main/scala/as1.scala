@@ -9,7 +9,7 @@ object as1 {
     else if(b==0&&a<=0){
       print("number is even but not positive")
     }
-    else if(b!=0&&a>0){
+    else if(b!=0&&a>0) {
       print("number is not even but  positive")
     }
   }
